@@ -9,7 +9,6 @@
 
 - 📝 I regularly write articles on [https://turtlely.github.io/](https://turtlely.github.io/)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
