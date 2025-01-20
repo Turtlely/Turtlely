@@ -11,7 +11,7 @@
 
 - 📝 I post cool space photos on [https://turtlely.github.io/gallery/](https://turtlely.github.io/gallery/)
 
-![alt text](https://github.com/Turtlely/Turtlely.github.io/blob/314cdb70c03ac3b6ea990f90a61922e8b6fa1f6c/assets/files/astro/andromeda/stars.png)
+![alt text](https://github.com/Turtlely/Turtlely.github.io/blob/ddaefa840e76562f965b9391e148fa01e4d918c9/assets/files/astro/rosette/A.png)
 
 <p align="left">
 </p>
